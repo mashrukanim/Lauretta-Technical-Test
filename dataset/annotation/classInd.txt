@@ -1,0 +1,7 @@
+0 Archery
+1 Basketball
+2 Billiards
+3 Bowling
+4 CricketShot
+5 HighJump
+6 JugglingBalls
