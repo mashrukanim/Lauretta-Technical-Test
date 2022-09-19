@@ -1,1 +1,0 @@
-# Lauretta-Technical-Test
